@@ -1,0 +1,43 @@
+
+
+.aside .nav li a:hover,
+.aside .nav li a.active{
+    color:red;
+} 
+.section-title h2::before,
+.section-title h2::after{
+    background-color:red;
+}
+
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after{
+/*.home .intro .social-links a{*/
+    background-color:hotpink;
+}
+.Activites .Activites-item-inner .Activites-img .Activites-date,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .timeline .circle-dot,
+.about .about-content .skills .skill-item .progress1 .progress-in{
+    background-color: orange;
+}
+.about .about-content .skills .skill-item .progress2 .progress-in{
+    background-color:darkorchid;
+}
+
+.about .about-content .skills .skill-item .progress3 .progress-in{
+    background-color:deepskyblue;
+}
+.about .about-content .timeline .timeline-item1::before,
+.about .about-content .timeline .circle-dot1,
+.about .about-content .skills .skill-item .progress4 .progress-in{
+    background-color:cadetblue;
+}
+.about .about-content .skills .skill-item .progress5 .progress-in{
+    background-color:indianred;
+}
+.about .about-content .skills .skill-item .progress6 .progress-in{
+    background-color:violet;
+}
