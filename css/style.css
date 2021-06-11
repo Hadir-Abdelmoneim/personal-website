@@ -623,18 +623,18 @@ box-sizing: border-box;
 }
 /*Activites End*/
 /*Poster Presentation*/
-.Poster Presentation.container{
+.PosterPresentation.container{
     max-width: 1100px;
     margin:auto;
 }
-.Poster Presentation .timeline-item .timeline-title{
+.PosterPresentation .timeline-item .timeline-title{
     font-size: 20px;
     font-weight: 700;
     margin-top: 15px;
     margin-bottom: 12px;
     color:blue; 
 }
-.Poster Presentation .timeline-item .timeline-date{
+.PosterPresentation .timeline-item .timeline-date{
     font-size: 16px;
     font-weight: 700;
     margin-top: 15px;
