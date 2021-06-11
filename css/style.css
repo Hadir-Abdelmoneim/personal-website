@@ -622,6 +622,26 @@ box-sizing: border-box;
     text-transform: capitalize;
 }
 /*Activites End*/
+/*Poster Presentation*/
+.Poster Presentation.container{
+    max-width: 1100px;
+    margin:auto;
+}
+.Poster Presentation .timeline-item .timeline-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    color:blue; 
+}
+.Poster Presentation .timeline-item .timeline-date{
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    color: #504e70;   
+}
+/*Poster Presentation End*/
 /*Publication*/
 .Publication.container{
     max-width: 1100px;
@@ -642,6 +662,7 @@ box-sizing: border-box;
     color: #504e70;   
 }
 /*Publication End*/
+
 
 /*Responsive*/
 /*@media (max-width:1199px){
